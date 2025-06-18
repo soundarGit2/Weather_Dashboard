@@ -36,8 +36,7 @@ npm run dev
 ### 5. Deploy to Vercel
 1. Push your code to GitHub
 2. Connect your repository to Vercel
-3. Add the environment variable in Vercel dashboard
-4. Deploy!
+3. Deploy!
 
 ## Technologies Used
 
